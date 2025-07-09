@@ -1,0 +1,39 @@
+ ol {
+           list-style-type: upper-roman; /* Римские цифры */
+       }
+  body { 
+	background-color: lightgrey;	/* Голубой фон */
+	color: black;						/* Чёрный текст */
+}
+
+h1 { 
+	color: black;		/* Синий заголовок */
+}
+
+p { 
+	font-size: 28px;	/* Размер шрифта абзаца */
+}
+
+
+
+
+ul {
+           list-style: none; /* Убираем маркеры */
+           display: flex; /* Горизонтальное расположение */
+}
+
+li {
+  margin-right: 15px; /* Отступ между пунктами */
+}
+
+body {
+   color: black;
+   background-color: white;
+   margin: 0;
+}
+
+.theme-buttons {
+   position: absolute;
+   top: 30px;
+   right: 10px;
+}
